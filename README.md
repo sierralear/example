@@ -1,7 +1,7 @@
 # example
 
 [![Build
-Status](https://travis-ci.org/sierralear/example.svg?branch=master)](https://travis-ci.org/sierralear/example)
+Status](https://travis-ci.org/sierralear/BMI-203-HW1.svg?branch=master)](https://travis-ci.org/sierralear/BMI-203-HW1)
 
 Example python project with testing.
 
